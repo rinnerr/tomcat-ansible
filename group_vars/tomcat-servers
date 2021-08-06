@@ -5,7 +5,6 @@ https_port: 8443
 
 # This will configure a default manager-gui user:
 
-hosts: 192.168.2.116
 user_name: ansible
 
 admin_username: admin
